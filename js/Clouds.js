@@ -1,0 +1,3 @@
+class Clouds extends Background{
+
+}
